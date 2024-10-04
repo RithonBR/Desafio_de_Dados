@@ -141,7 +141,7 @@ df_fao_other_top10 <- df_resumo_FAO_other %>%
 
 ```
 
-Depois plotar grafico de pizza um do lado do outro tanto o Df_resumo_Fao_humid e other com os principais paises (pedi arrego e chamei o estagiario)
+Depois plotar grafico de pizza um do lado do outro tanto o Df_resumo_Fao_humid e other com os principais paises (pedi arrego e chamei usei o estagiario (gpt))
 
 ```{r include= FALSE }
 
